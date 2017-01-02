@@ -1,0 +1,13 @@
+﻿빌드 시작: 2016-12-29 오후 7:07:22
+     1>2 노드의 "C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\TestOpenCV\TestOpenCV.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\dgist\Desktop\OpenCV 2.4.11\opencv\build\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TestOpenCV.cpp
+         TestOpenCV.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\Debug\TestOpenCV.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\dgist\Desktop\OpenCV 2.4.11\opencv\build\x86\vc11\lib" opencv_highgui2411d.lib opencv_core2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\Debug\TestOpenCV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\Debug\TestOpenCV.lib" /MACHINE:X86 Debug\TestOpenCV.obj
+         TestOpenCV.vcxproj -> C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\Debug\TestOpenCV.exe
+     1>"C:\Users\dgist\Desktop\OpenCV 2.4.11\TestOpenCV\TestOpenCV\TestOpenCV.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.58
